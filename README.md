@@ -17,8 +17,7 @@ Double-click `avinash_portfolio.html` in your file explorer.
 (Resume download works best via the Python server)
 
 ## 📁 Files
-- `avinash_portfolio.html` — the entire portfolio (self-contained)
-- `requirements.txt`       — notes on dependencies (none needed)
+- `index.html` — the entire portfolio (self-contained)
 - `README.md`              — this file
 
 ## 🥚 Easter Egg

@@ -23,9 +23,3 @@ Double-click `avinash_portfolio.html` in your file explorer.
 ## 🥚 Easter Egg
 Press `Ctrl + \`` anywhere on the page to open the hidden terminal.
 Type `help` to see all commands.
-
-## 🌐 Deploy for Free
-Drag `avinash_portfolio.html` into:
-- https://vercel.com  (instant deploy)
-- https://netlify.com (drag & drop deploy)
-- GitHub Pages        (push to repo, enable Pages)
